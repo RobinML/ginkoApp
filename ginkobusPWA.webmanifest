@@ -45,7 +45,7 @@
           "purpose": "any maskable"
         }
     ],
-    "start_url": "index.html",
+    "start_url": "/ginkoApp",
     "display": "fullscreen",
     "orientation": "portrait",
     "theme_color": "#000000",
